@@ -2,10 +2,6 @@
 
 YouTube Lite is a lightweight web application that allows users to browse and watch videos. It provides a simplified and intuitive interface for a seamless video watching experience.
 
-### Deployed Application [See Here](https://youtube-piy.netlify.app/)
-
-![youtube-clone](https://github.com/piyushkumarg/YouTube-Clone/assets/83285872/49cebb77-6052-478a-b521-c63fd02d5bec)
-
 ## Features
 
 - Browse and search for YouTube videos.
